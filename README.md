@@ -4,6 +4,6 @@
 - I love Apple 
 - 📫 How to reach me 
     - by mail : wadewilson2545@gmail.com
-    - by Instagram : @TheZcode
+    - by Instagram : @TheZcode (shortly)
     
 - Follow for more !
