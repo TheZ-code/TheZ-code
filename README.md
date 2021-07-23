@@ -6,4 +6,4 @@
     - by mail : wadewilson2545@gmail.com
     - by Instagram : @TheZcode (shortly)
     
-- Follow for more !
+- ...and Follow for more !
