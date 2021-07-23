@@ -1,10 +1,9 @@
 - Hello, i'm @TheZ-code ✌️
-- I’m interested and i creating in html, css, js (and Ai, incidentally 😉)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TheZ-code/TheZ-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I’m interested and i creating in html, CSS, JS (and Ai, incidentally 😉)
+- I’m currently learning PHP 💻 📚 
+- I love Apple 
+- 📫 How to reach me 
+    by mail : wadewilson2545@gmail.com
+    by Instagram : @TheZcode
+    
+- Follow for more !
