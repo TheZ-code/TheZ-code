@@ -1,4 +1,4 @@
-- Hello, i'm @TheZ-code ✌️
+- Hello, i'm TheZ-code ✌️
 - I’m interested and i creating in html, CSS, JS (and Ai, incidentally 😉)
 - I’m currently learning PHP 💻 📚 
 - I love Apple 
